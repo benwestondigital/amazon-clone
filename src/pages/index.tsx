@@ -8,7 +8,6 @@ const Home = () => {
       <Head>
         <title>Amazon 2.0</title>
       </Head>
-      <h1>Hey PAPAFUCKERS</h1>
       <Header />
     </div>
   );
